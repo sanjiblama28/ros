@@ -1,0 +1,21 @@
+[1.206s] Invoking command in '/home/sanjib28/launch_tutorial': PYTHONPATH=/home/sanjib28/launch_tutorial/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/launch_tutorial build --build-base /home/sanjib28/launch_tutorial/build/launch_tutorial/build install --prefix /home/sanjib28/launch_tutorial/install/launch_tutorial --record /home/sanjib28/launch_tutorial/build/launch_tutorial/install.log --single-version-externally-managed
+[1.599s] running egg_info
+[1.599s] writing build/launch_tutorial/launch_tutorial.egg-info/PKG-INFO
+[1.600s] writing dependency_links to build/launch_tutorial/launch_tutorial.egg-info/dependency_links.txt
+[1.601s] writing entry points to build/launch_tutorial/launch_tutorial.egg-info/entry_points.txt
+[1.601s] writing requirements to build/launch_tutorial/launch_tutorial.egg-info/requires.txt
+[1.602s] writing top-level names to build/launch_tutorial/launch_tutorial.egg-info/top_level.txt
+[1.651s] reading manifest file 'build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.653s] writing manifest file 'build/launch_tutorial/launch_tutorial.egg-info/SOURCES.txt'
+[1.653s] running build
+[1.654s] running build_py
+[1.654s] running install
+[1.655s] running install_lib
+[1.656s] running install_data
+[1.657s] copying package.xml -> /home/sanjib28/launch_tutorial/install/launch_tutorial/share/launch_tutorial
+[1.657s] running install_egg_info
+[1.660s] removing '/home/sanjib28/launch_tutorial/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial-0.0.0-py3.8.egg-info' (and everything under it)
+[1.660s] Copying build/launch_tutorial/launch_tutorial.egg-info to /home/sanjib28/launch_tutorial/install/launch_tutorial/lib/python3.8/site-packages/launch_tutorial-0.0.0-py3.8.egg-info
+[1.661s] running install_scripts
+[1.684s] writing list of installed files to '/home/sanjib28/launch_tutorial/build/launch_tutorial/install.log'
+[1.721s] Invoked command in '/home/sanjib28/launch_tutorial' returned '0': PYTHONPATH=/home/sanjib28/launch_tutorial/install/launch_tutorial/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/launch_tutorial build --build-base /home/sanjib28/launch_tutorial/build/launch_tutorial/build install --prefix /home/sanjib28/launch_tutorial/install/launch_tutorial --record /home/sanjib28/launch_tutorial/build/launch_tutorial/install.log --single-version-externally-managed

@@ -1,0 +1,41 @@
+[1.273s] Invoking command in '/home/sanjib28/ros2_ws/src/py_srvcli': PYTHONPATH=/home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/sanjib28/ros2_ws/build/py_srvcli/build install --prefix /home/sanjib28/ros2_ws/install/py_srvcli --record /home/sanjib28/ros2_ws/build/py_srvcli/install.log --single-version-externally-managed
+[1.570s] running egg_info
+[1.571s] creating ../../build/py_srvcli/py_srvcli.egg-info
+[1.571s] writing ../../build/py_srvcli/py_srvcli.egg-info/PKG-INFO
+[1.572s] writing dependency_links to ../../build/py_srvcli/py_srvcli.egg-info/dependency_links.txt
+[1.572s] writing entry points to ../../build/py_srvcli/py_srvcli.egg-info/entry_points.txt
+[1.572s] writing requirements to ../../build/py_srvcli/py_srvcli.egg-info/requires.txt
+[1.572s] writing top-level names to ../../build/py_srvcli/py_srvcli.egg-info/top_level.txt
+[1.579s] writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[1.623s] reading manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[1.624s] writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[1.625s] running build
+[1.625s] running build_py
+[1.625s] creating /home/sanjib28/ros2_ws/build/py_srvcli/build
+[1.625s] creating /home/sanjib28/ros2_ws/build/py_srvcli/build/lib
+[1.625s] creating /home/sanjib28/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[1.625s] copying py_srvcli/__init__.py -> /home/sanjib28/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[1.626s] copying py_srvcli/client_member_function.py -> /home/sanjib28/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[1.626s] copying py_srvcli/service_member_function.py -> /home/sanjib28/ros2_ws/build/py_srvcli/build/lib/py_srvcli
+[1.626s] running install
+[1.626s] running install_lib
+[1.628s] creating /home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[1.628s] copying /home/sanjib28/ros2_ws/build/py_srvcli/build/lib/py_srvcli/__init__.py -> /home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[1.628s] copying /home/sanjib28/ros2_ws/build/py_srvcli/build/lib/py_srvcli/client_member_function.py -> /home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[1.628s] copying /home/sanjib28/ros2_ws/build/py_srvcli/build/lib/py_srvcli/service_member_function.py -> /home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli
+[1.629s] byte-compiling /home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli/__init__.py to __init__.cpython-38.pyc
+[1.630s] byte-compiling /home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli/client_member_function.py to client_member_function.cpython-38.pyc
+[1.631s] byte-compiling /home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli/service_member_function.py to service_member_function.cpython-38.pyc
+[1.632s] running install_data
+[1.633s] creating /home/sanjib28/ros2_ws/install/py_srvcli/share/ament_index
+[1.633s] creating /home/sanjib28/ros2_ws/install/py_srvcli/share/ament_index/resource_index
+[1.633s] creating /home/sanjib28/ros2_ws/install/py_srvcli/share/ament_index/resource_index/packages
+[1.633s] copying resource/py_srvcli -> /home/sanjib28/ros2_ws/install/py_srvcli/share/ament_index/resource_index/packages
+[1.633s] copying package.xml -> /home/sanjib28/ros2_ws/install/py_srvcli/share/py_srvcli
+[1.634s] running install_egg_info
+[1.637s] Copying ../../build/py_srvcli/py_srvcli.egg-info to /home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli-0.0.0-py3.8.egg-info
+[1.639s] running install_scripts
+[1.665s] Installing client script to /home/sanjib28/ros2_ws/install/py_srvcli/lib/py_srvcli
+[1.666s] Installing service script to /home/sanjib28/ros2_ws/install/py_srvcli/lib/py_srvcli
+[1.666s] writing list of installed files to '/home/sanjib28/ros2_ws/build/py_srvcli/install.log'
+[1.696s] Invoked command in '/home/sanjib28/ros2_ws/src/py_srvcli' returned '0': PYTHONPATH=/home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/sanjib28/ros2_ws/build/py_srvcli/build install --prefix /home/sanjib28/ros2_ws/install/py_srvcli --record /home/sanjib28/ros2_ws/build/py_srvcli/install.log --single-version-externally-managed

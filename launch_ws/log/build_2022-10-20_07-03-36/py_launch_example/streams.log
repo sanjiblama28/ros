@@ -1,0 +1,20 @@
+[1.303s] Invoking command in '/home/sanjib28/launch_ws/src': PYTHONPATH=/home/sanjib28/launch_ws/install/py_launch_example/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/py_launch_example build --build-base /home/sanjib28/launch_ws/build/py_launch_example/build install --prefix /home/sanjib28/launch_ws/install/py_launch_example --record /home/sanjib28/launch_ws/build/py_launch_example/install.log --single-version-externally-managed
+[1.628s] running egg_info
+[1.630s] writing ../build/py_launch_example/py_launch_example.egg-info/PKG-INFO
+[1.632s] writing dependency_links to ../build/py_launch_example/py_launch_example.egg-info/dependency_links.txt
+[1.647s] writing entry points to ../build/py_launch_example/py_launch_example.egg-info/entry_points.txt
+[1.647s] writing requirements to ../build/py_launch_example/py_launch_example.egg-info/requires.txt
+[1.648s] writing top-level names to ../build/py_launch_example/py_launch_example.egg-info/top_level.txt
+[1.714s] reading manifest file '../build/py_launch_example/py_launch_example.egg-info/SOURCES.txt'
+[1.716s] writing manifest file '../build/py_launch_example/py_launch_example.egg-info/SOURCES.txt'
+[1.716s] running build
+[1.717s] running build_py
+[1.719s] running install
+[1.721s] running install_lib
+[1.724s] running install_data
+[1.727s] running install_egg_info
+[1.730s] removing '/home/sanjib28/launch_ws/install/py_launch_example/lib/python3.8/site-packages/py_launch_example-0.0.0-py3.8.egg-info' (and everything under it)
+[1.732s] Copying ../build/py_launch_example/py_launch_example.egg-info to /home/sanjib28/launch_ws/install/py_launch_example/lib/python3.8/site-packages/py_launch_example-0.0.0-py3.8.egg-info
+[1.735s] running install_scripts
+[1.764s] writing list of installed files to '/home/sanjib28/launch_ws/build/py_launch_example/install.log'
+[1.798s] Invoked command in '/home/sanjib28/launch_ws/src' returned '0': PYTHONPATH=/home/sanjib28/launch_ws/install/py_launch_example/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/py_launch_example build --build-base /home/sanjib28/launch_ws/build/py_launch_example/build install --prefix /home/sanjib28/launch_ws/install/py_launch_example --record /home/sanjib28/launch_ws/build/py_launch_example/install.log --single-version-externally-managed

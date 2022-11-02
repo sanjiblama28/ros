@@ -1,0 +1,22 @@
+[0.760s] Invoking command in '/home/sanjib28/ros2_ws/src/py_srvcli': AMENT_PREFIX_PATH=/home/sanjib28/ros2_ws/install/tutorial_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sanjib28/ros2_ws/install/tutorial_interfaces LD_LIBRARY_PATH=/home/sanjib28/ros2_ws/install/tutorial_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages:/home/sanjib28/ros2_ws/install/tutorial_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/sanjib28/ros2_ws/build/py_srvcli/build install --prefix /home/sanjib28/ros2_ws/install/py_srvcli --record /home/sanjib28/ros2_ws/build/py_srvcli/install.log --single-version-externally-managed
+[0.961s] running egg_info
+[0.961s] writing ../../build/py_srvcli/py_srvcli.egg-info/PKG-INFO
+[0.963s] writing dependency_links to ../../build/py_srvcli/py_srvcli.egg-info/dependency_links.txt
+[0.963s] writing entry points to ../../build/py_srvcli/py_srvcli.egg-info/entry_points.txt
+[0.963s] writing requirements to ../../build/py_srvcli/py_srvcli.egg-info/requires.txt
+[0.963s] writing top-level names to ../../build/py_srvcli/py_srvcli.egg-info/top_level.txt
+[1.001s] reading manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[1.002s] writing manifest file '../../build/py_srvcli/py_srvcli.egg-info/SOURCES.txt'
+[1.002s] running build
+[1.003s] running build_py
+[1.004s] running install
+[1.005s] running install_lib
+[1.007s] running install_data
+[1.009s] running install_egg_info
+[1.011s] removing '/home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli-0.0.0-py3.8.egg-info' (and everything under it)
+[1.012s] Copying ../../build/py_srvcli/py_srvcli.egg-info to /home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages/py_srvcli-0.0.0-py3.8.egg-info
+[1.013s] running install_scripts
+[1.028s] Installing client script to /home/sanjib28/ros2_ws/install/py_srvcli/lib/py_srvcli
+[1.029s] Installing service script to /home/sanjib28/ros2_ws/install/py_srvcli/lib/py_srvcli
+[1.030s] writing list of installed files to '/home/sanjib28/ros2_ws/build/py_srvcli/install.log'
+[1.057s] Invoked command in '/home/sanjib28/ros2_ws/src/py_srvcli' returned '0': AMENT_PREFIX_PATH=/home/sanjib28/ros2_ws/install/tutorial_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/sanjib28/ros2_ws/install/tutorial_interfaces LD_LIBRARY_PATH=/home/sanjib28/ros2_ws/install/tutorial_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/sanjib28/ros2_ws/install/py_srvcli/lib/python3.8/site-packages:/home/sanjib28/ros2_ws/install/tutorial_interfaces/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/py_srvcli build --build-base /home/sanjib28/ros2_ws/build/py_srvcli/build install --prefix /home/sanjib28/ros2_ws/install/py_srvcli --record /home/sanjib28/ros2_ws/build/py_srvcli/install.log --single-version-externally-managed
